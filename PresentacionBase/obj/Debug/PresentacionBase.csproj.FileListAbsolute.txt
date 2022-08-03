@@ -1,0 +1,112 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormAbm.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormBase.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsultaConDetalle.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormConsulta.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Formularios.FormLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.Properties.ResourceBase.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\PresentacionBase\obj\Debug\PresentacionBase.pdb

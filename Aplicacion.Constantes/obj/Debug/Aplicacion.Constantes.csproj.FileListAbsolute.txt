@@ -1,0 +1,61 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Properties.RecursoImagenes.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache

@@ -1,0 +1,666 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionListaPrecio.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantes.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\Presentacion.Core.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\FontAwesome.Sharp.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Reactive.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Reactive.Linq.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.ValueTuple.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Reactive.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Reactive.Linq.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\bin\Debug\System.ValueTuple.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo.ArticuloLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00017_Articulo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00018_Abm_Articulo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00019_Rubro.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00020_Abm_Rubro.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00021_Marca.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00022_Abm_Marca.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00023_UnidadDeMedida.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00024_Abm_UnidadDeMedida.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00025_Iva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00026_Abm_Iva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00027_MotivoBaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00028_Abm_MotivoBaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00029_BajaDeArticulos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00030_Abm_BajaArticulos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00031_ActualizarPrecios.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00032_ListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00033_Abm_ListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00054_Deposito.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Articulo._00055_Abm_Deposito.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja.VerComprobantes.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00038_Caja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00039_AperturaCaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00040_CierreCaja.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00041_ConceptoGastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00042_Abm_ConceptoGastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00043_Gastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Caja._00044_Abm_Gastos.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente.ClienteLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00009_Cliente.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00010_Abm_Cliente.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00034_ClienteCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Cliente._00035_ClientePagoCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.AutorizacionListaPrecio.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes.Clases.CambiarCantidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00050_Venta.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00051_PuestoTrabajo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00052_Abm_PuestoTrabajo.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Comprobantes._00053_Compra.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00013_CondicionIva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.CondicionIva._00014_Abm_CondicionIva.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Configuracion._00012_Configuracion.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00003_Departamento.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Departamento._00004_Abm_Departamento.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado.EmpleadoLookUp.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00007_Empleado.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Empleado._00008_Abm_Empleado.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00044_FormaPago.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00046_Abm_tarjeta.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00048_Abm_Banco.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.FormaPago._00049_CobroDiferido.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00005_Localidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Localidad._00006_AbmLocalidad.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Properties.Resources.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00016_Abm_Proveedor.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00036_ProveedorCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Proveedor._00037_ProveedorPagoCtaCte.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00001_Provincia.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Provincia._00002_Abm_Provincia.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.Usuario._00011_Usuario.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Presentacion.Core\obj\Debug\Presentacion.Core.pdb

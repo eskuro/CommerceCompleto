@@ -1,0 +1,240 @@
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Dominio.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\EntityFramework.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Infraestructura.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Servicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Dominio.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Dominio.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Infraestructura.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Infraestructura.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Servicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Servicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\EntityFramework.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\EntityFramework.SqlServer.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\bin\Debug\Aplicacion.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\Aplicacion.IoC\obj\Debug\Aplicacion.IoC.pdb

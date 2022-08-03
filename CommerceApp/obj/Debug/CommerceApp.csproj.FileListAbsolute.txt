@@ -1,0 +1,420 @@
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Laboratorio 2\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 2\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 4\N-Commerce\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Integrador\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Helpers.CtrolEstadistica.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Helpers.CtrolEstadistica.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 2\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Helpers.CtrolEstadistica.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+E:\Tecnicatura 2020\Comision 4\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\CommerceApp.exe
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\CommerceApp.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\EntityFramework.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Reactive.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Dominio.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Servicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Presentacion.Core.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\EntityFramework.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Reactive.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\System.ValueTuple.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Dominio.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Dominio.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Infraestructura.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Infraestructura.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Servicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Servicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\bin\Debug\Aplicacion.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Helpers.CtrolEstadistica.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Login.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.exe
+F:\Daud TODAY\ProgramaDAUD\N-Commerce\CommerceApp\obj\Debug\CommerceApp.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\CommerceApp.exe.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\CommerceApp.exe
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\CommerceApp.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.Constantes.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.IoC.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\EntityFramework.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\FontAwesome.Sharp.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\IServicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Presentacion.Core.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\PresentacionBase.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\StructureMap.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Reactive.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.ValueTuple.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Dominio.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Infraestructura.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Servicios.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.dll
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.Constantes.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.IoC.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.IoC.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\IServicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\IServicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Presentacion.Core.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\PresentacionBase.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\EntityFramework.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Reactive.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\System.ValueTuple.xml
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Dominio.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Dominio.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Infraestructura.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Infraestructura.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Servicios.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Servicios.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.pdb
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\bin\Debug\Aplicacion.dll.config
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.csprojAssemblyReference.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.Helpers.CtrolEstadistica.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.Login.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.Principal.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.Properties.Resources.resources
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.csproj.GenerateResource.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.csproj.CoreCompileInputs.cache
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.csproj.CopyComplete
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.exe
+F:\Daud TODAY\ProgramaDAUD\N-Commerce - copia\CommerceApp\obj\Debug\CommerceApp.pdb
